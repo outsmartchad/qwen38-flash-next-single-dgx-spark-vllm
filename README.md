@@ -2,7 +2,7 @@
 
 vLLM serves the public NVIDIA NVFP4 checkpoint with CPU-offloaded PLE and MTP ×3. The upstream Mia checkpoint returned HTTP 401 during staging. The model API binds to `127.0.0.1:18897`.
 
-[Benchmarks](#benchmarks) · [Runtime](#runtime) · [Quick start](#quick-start) · [Raw results](results/benchmark-2026-11-21.json)
+[How the model works](docs/how-it-works.md) · [Quick start](#quick-start) · [Runtime](#runtime) · [Raw results](results/benchmark-2026-11-21.json)
 
 ## Benchmarks
 
